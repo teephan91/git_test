@@ -1,4 +1,1 @@
-It's just some random text.
-Voila!
-(just added): bla bla bla
-wow wow 2
+Hello, world! This is testing out Github.
